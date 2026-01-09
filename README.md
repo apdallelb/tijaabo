@@ -83,8 +83,7 @@ practice-repo/
 
 1. Fork ama Clone repo-ga
 
-git clone https://github.com/username/practice-repo.git
-
+git clone https://github.com/apdallelb/tijaabo
 
 2. Samee folder ama file cusub
 
